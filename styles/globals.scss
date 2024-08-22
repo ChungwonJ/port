@@ -80,6 +80,10 @@ a{
 
   &>li{
     line-height: 34px;
+
+    &>a{
+      text-decoration: none;
+    }
   }
 }
 
