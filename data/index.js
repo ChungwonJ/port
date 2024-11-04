@@ -1,5 +1,11 @@
 export const PROJECT = [
   {
+    title: "금성아이스쿨,천재밀크T",
+    link: "",
+    since: "(2024.09 ~ 2024.11)",
+    txt: "초등 교육을 위한 문제집 개발입니다. 금성아이스쿨에선 국어 수학 문해력 컨탠츠를 담당하여 개발하였고, 천재에서는 수학컨탠츠를 담당하여 개발하였습니다.",
+  },
+  {
     title: "아이스크림 에듀",
     link: "",
     since: "(2024.06 ~ 2024.08)",
@@ -61,7 +67,7 @@ export const SKILL = [
         skillTxt: "grid와 flex를 상황에 맞게 사용이 가능합니다.",
       },
       {
-        skillTxt: "UI 라이브러리와 Css 저처리기 사용이 가능합니다.",
+        skillTxt: "UI 라이브러리와 CSS 전처리기 사용이 가능합니다.",
       },
     ],
   },
@@ -76,10 +82,7 @@ export const SKILL = [
       },
       {
         skillTxt: "비동기 처리를 이해하고 있습니다.",
-      },
-      {
-        skillTxt: "타입 연산자에 대해 이해하고 있습니다.",
-      },
+      }
     ],
   },
   {
@@ -87,6 +90,9 @@ export const SKILL = [
     skills: [
       {
         skillTxt: "Sever git과 Github를 사용하였습니다.",
+      },
+      {
+        skillTxt: "SVN 사용경험이 있습니다.",
       },
       {
         skillTxt: "git-flow에 대해 이해하고 있습니다.",
