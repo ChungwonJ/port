@@ -41,11 +41,8 @@ export const PROJECT = [
 
 export const SKILL = [
   {
-    title: "NextJs",
+    title: "React,NextJs",
     skills: [
-      {
-        skillTxt: "주로 Next.js를 사용하여 웹을 만듭니다.",
-      },
       {
         skillTxt: "재사용 컴포넌트를 분리하여 자유롭게 활용하고, 컴포넌트 디자인 패턴을 사용하여 개발이 가능합니다.",
       },
@@ -76,9 +73,6 @@ export const SKILL = [
     skills: [
       {
         skillTxt: "ES6의 문법부터 시작하였습니다.",
-      },
-      {
-        skillTxt: "스코프를 이해하고 있습니다.",
       },
       {
         skillTxt: "비동기 처리를 이해하고 있습니다.",
